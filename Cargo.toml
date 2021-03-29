@@ -1,7 +1,7 @@
 [package]
 name = "tcp_server"
 version = "0.1.0"
-authors = ["chenyouneng@huanyi.onaliyun.com <chenyouneng@huanyi.onaliyun.com>"]
+authors = ["18899772602@139.com <18899772602@139.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
